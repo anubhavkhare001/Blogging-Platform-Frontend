@@ -48,7 +48,7 @@ Uses JWT stored in `localStorage`, and managed via `AuthContext`.
 
 
 📹 Demo
-Google Drive Link to Demo Video
+Google Drive Link to Demo Video: https://drive.google.com/file/d/10wNo4PDSutWosudLEajc_U7wgQEHnX_v/view?usp=sharing
 
 📁 Folder Structure
 
