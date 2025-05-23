@@ -35,11 +35,17 @@ Uses JWT stored in `localStorage`, and managed via `AuthContext`.
 
 ## 🚀 Setup Instructions
 
-```bash
-git clone https://github.com/anubhavkhare001/blog-platform-frontend
-cd blog-platform-frontend
-npm install
-npm start
+1. Clone the repository:
+      ```bash
+      git clone https://github.com/anubhavkhare001/blog-platform-frontend
+      cd blog-platform-frontend
+      
+2. Install dependencies:
+      npm install
+   
+4. Start the development server:   
+      npm start
+
 
 📹 Demo
 Google Drive Link to Demo Video
